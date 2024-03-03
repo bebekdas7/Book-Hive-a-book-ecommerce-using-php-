@@ -1,0 +1,32 @@
+.category {
+  background: #dcf0e4;
+}
+
+.product-card {
+  /* border: 1px solid black; */
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  height: 28rem;
+  width: 20rem;
+  background: #ffffff;
+  border-radius: 8px;
+}
+.product-card span {
+  /* border: 1px solid black; */
+  width: 100%;
+  height: 50%;
+}
+.product-card span img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.product-card span h6 {
+  color: grey;
+}
+.product-card span h5 {
+  font-weight: 600;
+  color: rgb(23, 23, 178);
+}
+.product-card span p {
+  font-size: 1.4rem;
+}

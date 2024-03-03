@@ -1,0 +1,28 @@
+.buynow {
+  background: #dcf0e4;
+}
+/* .buynow-heading {
+  border: 1px solid black;
+} */
+.buynow-body {
+  /* border: 1px solid red; */
+  height: 100%;
+}
+.buynow-body-preview {
+  /* border: 1px solid black; */
+  width: 25%;
+}
+.buynow-body-preview section {
+  width: 92%;
+  height: 60vh;
+}
+.buynow-body-preview section img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.buynow-body-detail {
+  /* border: 1px solid black; */
+  width: 75%;
+}

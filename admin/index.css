@@ -1,0 +1,7 @@
+.admin-dashboard {
+  width: 75%;
+}
+.admin-dashboard-content {
+  border: 1px solid black;
+  height: 50vh;
+}

@@ -1,0 +1,8 @@
+.admin-products-operations {
+  border: 1px solid green;
+  height: 10vh;
+}
+.admin-products-table {
+  border: 1px solid orange;
+  height: 80%;
+}
